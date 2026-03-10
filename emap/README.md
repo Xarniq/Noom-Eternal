@@ -37,9 +37,3 @@ make build
 ```bash
 make test
 ```
-
-## Auteurs
-
-- Mattéo BEZET-TORRES
-- Elias GARACH-MALULY
-- Anton MOULIN
