@@ -234,10 +234,3 @@ docker build -t noometernal-client .
 
 > **Note:** Running the client in Docker requires X11 forwarding or a display server, since it is a graphical application.
 
----
-
-## Authors
-
-- Mattéo BEZET-TORRES
-- Elias GARACH-MALULY
-- Anton MOULIN
